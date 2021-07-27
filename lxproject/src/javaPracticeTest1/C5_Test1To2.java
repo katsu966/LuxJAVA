@@ -31,7 +31,7 @@ class IPTV extends ColorTV{
 		+ " ÀÎÄ¡ " + setColor());
 	}
 	}
-	public class C5_From1To2{
+	public class C5_Test1To2{
 		/* Test1
 	public static void main(String[] args) {
 	ColorTV myTV = new ColorTV(32, 1024);
